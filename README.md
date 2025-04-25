@@ -1,4 +1,4 @@
-# Praktikum 1: PHP Framework (CodeIgniter 4)
+# Praktikum 1 & 3: PHP Framework (CodeIgniter 4)
 
 ## PROFIL
 
